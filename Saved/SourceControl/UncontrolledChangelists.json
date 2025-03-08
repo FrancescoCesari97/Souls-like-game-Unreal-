@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_LR.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_LL.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_FR.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_FL.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_F.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_BR.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_BL.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_B.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Characters/Souls/Movement/M_Neutral_Stand_Idle_Loop.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_RL.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Characters/Souls/Movement/BS_Strafe_Movement.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
