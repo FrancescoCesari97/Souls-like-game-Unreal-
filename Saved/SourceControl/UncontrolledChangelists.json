@@ -18,7 +18,12 @@
 				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_RL.uasset",
 				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Characters/Souls/Movement/BS_Strafe_Movement.uasset",
 				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
-				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/ThirdPerson/Input/Actions/AI_lock.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Blueprints/BP_Combat.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/Blueprints/BPC_Combat.uasset",
+				"C:/Users/freed/Desktop/UE_RPG_Tutorial/Souls_like_game/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EL/21683QSQW73KF84Y6STYWO.uasset"
 			]
 		}
 	]
